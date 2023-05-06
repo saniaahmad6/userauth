@@ -9,7 +9,7 @@ This project was built using these technologies:
 
 ## Features
 
-**📖 Signup, Login, Forgot and Reset Password **
+**📖 Signup, Login, Forgot and Reset Password**
 
 **🎨 Styled with React-Bootstrap and CSS**
 
