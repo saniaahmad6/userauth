@@ -32,7 +32,7 @@
   }
   
   .form-group input:focus {
-    border-bottom: 3px solid coral;
+    border-bottom: 3px solid rgb(74, 205, 166);
   }
   
   .btn {
@@ -48,7 +48,7 @@
   }
   
   .btn-primary {
-    background-color: coral;
+    background-color: rgb(74, 205, 166);
     color: #fff;
   }
   
