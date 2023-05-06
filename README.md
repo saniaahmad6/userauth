@@ -1,4 +1,4 @@
-### User Authenication using JWT
+# User Authenication using JWT
 
 This project was built using these technologies: 
 - React.js
